@@ -17,7 +17,7 @@ ABME-market uses the sheet that configures a set of attribute values in differen
 
 
 
-
+![Figure2](http://pleger.cl/sites/ABME-market/buyers.png)
 
 
 Figure 2. Configurations of buyers according to selected attributes.
@@ -27,7 +27,7 @@ ABME-market uses the sheet that configures a set of attribute values. For exampl
 
 
 
-
+![Figure3](http://pleger.cl/sites/ABME-market/quota.png)
 
 Figure 3. Configuration of participation quotas in markets.    
 
@@ -36,7 +36,7 @@ ABME-market uses the sheet to configure how markets participate. This configurat
 
 
 
-
+![Figure4](http://pleger.cl/sites/ABME-market/configuration.png)
 
 Figure 4. Global configuration of ABME-market.
 
