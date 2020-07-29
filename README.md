@@ -8,7 +8,7 @@ You only should execute the main file ([Main.java](src/Main.java)), which uses t
 
 
 
-
+![Figure1](http://pleger.cl/sites/ABME-market/markets.png)
 
 
 Figure 1. Configurations of markets according to selected attributes.
