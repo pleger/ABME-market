@@ -43,4 +43,7 @@ Figure 4. Global configuration of ABME-market.
 A global configuration of ABME-market is shown in Figure 4. Many paremeters are configurable, for example, number of agents, periods, repetions of the execution of a simulation. An important configuration is scenario, which a numeric value. This numeric value indicates which previously defined [Scenario.java](src/scenario/Scenario.java) scenario will be used.    
 
 
+
 ## Requirements 
+
+This project is implemented on Java (1.8.0_11) under the [IDE Intellij Idea](https://www.jetbrains.com/), which was mainly executed on a MacOS Catalina, 3,1 GHz Dual-Core Intel Core i5 with 8GB of RAM.
