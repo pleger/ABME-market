@@ -37,9 +37,10 @@ ABME-market uses the sheet to configure how markets participate. This configurat
 
 
 
+
 Figure 4. Global configuration of ABME-market.
 
-Figure 4 shows the global configuration of ABME-market, where many paremeters are configurable. 
+A global configuration of ABME-market is shown in Figure 4. Many paremeters are configurable, for example, number of agents, periods, repetions of the execution of a simulation. An important configuration is scenario, which a numeric value. This numeric value indicates which previously defined [Scenario.java](src/scenario/Scenario.java) scenario will be used.    
 
 
 ## Requirements 
