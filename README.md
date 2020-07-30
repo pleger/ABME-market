@@ -4,8 +4,11 @@ An Agent-Based Model (ABM) to simulate the selection of market websites by consu
 
 
 ## Usage
-You only should execute the main file ([Main.java](src/Main.java)), which uses the scenario configured [input/SCENARIO.xlsx](input/SCENARIO.xlsx). This Excel file contains a set of sheets that are necessary to fill to corretly execute the software. 
+You only should execute the main file ([Main.java](src/Main.java)), which uses the scenario configured [input/SCENARIO.xlsx](input/SCENARIO.xlsx) and generates an Excel file as [output](output). 
 
+### Input
+
+The input Excel file contains a set of sheets that are necessary to fill in order to corretly execute the software. 
 
 
 ![Figure1](http://pleger.cl/sites/ABME-market/markets.png)
@@ -42,7 +45,14 @@ Figure 4. Global configuration of ABME-market.
 
 A global configuration of ABME-market is shown in Figure 4. Many paremeters are configurable, for example, number of agents, periods, repetions of the execution of a simulation. An important configuration is scenario, which a numeric value. This numeric value indicates which previously defined [Scenario.java](src/scenario/Scenario.java) scenario will be used.    
 
+### Output
 
+The output Excel file contains a set of sheets with different of results, which can contain information as any potential decision of an agent up to sells of every markets. 
+
+
+![Figure4](http://pleger.cl/sites/ABME-market/sells.png)
+
+Figure 5. Unique sells of each market.
 
 ## Requirements 
 
