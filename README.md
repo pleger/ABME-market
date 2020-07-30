@@ -11,7 +11,7 @@ You only should execute the main file ([Main.java](src/Main.java)), which uses t
 The input Excel file contains a set of sheets that are necessary to fill in order to corretly execute the software. 
 
 
-[Figure1](http://pleger.cl/sites/ABME-market/markets.png)
+![Figure1](http://pleger.cl/sites/ABME-market/markets.png)
 
 
 Figure 1. Configurations of markets according to selected attributes.
@@ -49,10 +49,16 @@ A global configuration of ABME-market is shown in Figure 4. Many paremeters are 
 
 The output Excel file contains a set of sheets with different of results, which can contain information as any potential decision of an agent up to sells of every markets. 
 
-
-![Figure4](http://pleger.cl/sites/ABME-market/sells.png)
+![Figure5](http://pleger.cl/sites/ABME-market/sells.png)
 
 Figure 5. Unique sells of each market.
+
+In addition, ABME-market can graph any simulation as shown in Figure 6.
+
+![Figure6](http://pleger.cl/sites/ABME-market/simulation.png)
+
+Figure 6. Graph of a simulation in ABME-market.
+
 
 ## Requirements 
 
